@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Eagle sec3
 
+=======
+Eagle 1
+ 
+>>>>>>> sec
